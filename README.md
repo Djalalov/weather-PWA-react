@@ -1,2 +1,3 @@
-# weather-PWA-react
-PWA / weather react app
+# Real time weather information with PWA features
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
